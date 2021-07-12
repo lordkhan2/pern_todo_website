@@ -1,1 +1,2 @@
-# pern_todo_website
+todo pern website
+created using: postgreSQL, node, express, react, bootstrap 5
